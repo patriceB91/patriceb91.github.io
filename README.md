@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/patriceB91/pbservices.fr/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Test help  [link to help page!](help.html)
+Test help  [link to help page!](README2.md)
 
 ### Markdown
 
